@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "jsx": "react",
+        "watch": true,
+        // "ignoreDeprecations": "5.0",
+        "target": "esnext", // 50/50
+        // "target": "ES3", // 50/50
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "esModuleInterop": true
+    }
+}
